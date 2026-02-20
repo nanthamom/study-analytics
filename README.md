@@ -62,6 +62,19 @@ Networks - 30 minutes
 - Build a CLI Interface for Inserting Sessions
 - Integrated with a C++ Tracker Application 
 
+# Visualisation 
+
+[Study Time Chart] (study_chart.png)
+
+Total study time: 175 minutes  
+Most studied topic: Operating Systems - 100 minutes  
+Average session: 43.75 minutes  
+
+Average difficulty per topic:
+DSA Practice - 5.0  
+Networks - 3.0  
+Operating Systems - 4.0  
+
 # Author 
 
 Nantha, M.
